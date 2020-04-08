@@ -32,7 +32,7 @@ const IndexPage = () => (
         <p style={{ 'textAlign': 'left', 'textTransform': 'none', }}>
           為確保工作重點一致、檢測後獲得明確結果，PDIS小組整理出適用於2019年RAY計畫的使用者體驗「設計六步驟」。在計畫開始時PDIS即舉辦工作坊，說明此六步驟及執行期程，同學需訪談相關使用者、確認問題以後，方能進行設計和產出原型。此設計六步驟除了讓同學們明確掌握自身專案進度，也可供往後相關單位參考。
         </p>
-        <img src='https://raw.githubusercontent.com/PDIS/ray2019/master/src/assets/images/ray2019_process.png' alt='' width={"100%"}></img>
+        <img src='https://raw.githubusercontent.com/PDIS/ray2019/master/src/assets/images/ray2019_process.png' alt='' width={"100%"} style={{ 'margin-top': '10vh' }}></img>
       </header>
       <header className="major container medium">
         <h2>
