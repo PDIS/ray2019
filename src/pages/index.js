@@ -32,7 +32,7 @@ const IndexPage = () => (
         <p style={{ 'textAlign': 'left', 'textTransform': 'none', }}>
           2019年，我們以「協助優化政府網站數位服務」為計畫目的，招募具UI（User Interface）使用者介面或UX（User Experience）使用者體驗相關專長或實務經驗的青年學生，檢核服務後提供改善後的數位服務模型，供各網站主管機關和社會大眾參考。
         </p>
-        <img src='https://raw.githubusercontent.com/PDIS/ray2019/master/src/assets/images/Ray3_process.png' alt='' width={"100%"}></img>
+        <img src='https://raw.githubusercontent.com/PDIS/ray2019/master/src/assets/images/ray2019_process.png' alt='' width={"100%"}></img>
       </header>
       <header className="major container medium">
         <h2>
