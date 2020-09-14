@@ -822,6 +822,14 @@
 		&.small {
 			font-size: 0.8em;
 		}
+
+		&.teal {
+			background: teal;
+		}
+
+		&.disabled {
+			pointer-events: none;
+		}
 	}
 
 /* Box */
